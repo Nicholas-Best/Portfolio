@@ -64,6 +64,13 @@ A collection of documentation case studies across software, hardware, and scient
 **Challenge:** 300+ images with inconsistent markings or text.  
 **My contribution:** Executed pixel-level cleanup of 300+ electrical illustrations to ensure visual consistency in high-stakes paramedical service environments, while co-authoring core monitoring topics.
 
+### <a href="https://github.com/Nicholas-Best/Tesis.git" target="_blank">Personal Python Script: Automated Data Processing & Visualization</a>
+**Context:** I had hundreds of raw data points in IRAF (Image Reduction and Analysis Facility). The manual process of combining multi-night data and performing linear adjustments was time-intensive and prone to human error.  
+**Authoring tool:** Python, Jupyter Notebook, Pandas (for data manipulation), Matplotlib (for visualization).  
+**Solution:** I created a Python-based workflow that:
+  - Automated data cleaning and variable assignment across multiple observation nights.
+  - Generated linear regression models and high-resolution graphs to visualize data trends.
+
 ---
 *Disclaimer: All content is the property of the respective manufacturers and is shared here for portfolio demonstration purposes only.*
 
